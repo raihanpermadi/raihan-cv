@@ -1,1 +1,1 @@
-streamlit == version 1.30.0
+streamlit
